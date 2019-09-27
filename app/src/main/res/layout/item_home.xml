@@ -17,7 +17,8 @@
             android:id="@+id/iv_user"
             android:padding="10dp"
             android:layout_width="50dp"
-            android:layout_height="50dp"/>
+            android:layout_height="50dp"
+            android:src="@drawable/ic_launcher"/>
         <RelativeLayout
             android:layout_marginLeft="15dp"
             android:layout_width="wrap_content"
@@ -28,6 +29,7 @@
                 android:textSize="15sp"
                 android:layout_alignParentTop="true"
                 android:padding="5dp"
+                android:text="职场中的你和我，像极了小时候看过的动物世界"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
             <TextView
@@ -35,7 +37,8 @@
                 android:padding="5dp"
                 android:layout_alignParentBottom="true"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:text="发布于 创意02:15"/>
         </RelativeLayout>
 
     </LinearLayout>

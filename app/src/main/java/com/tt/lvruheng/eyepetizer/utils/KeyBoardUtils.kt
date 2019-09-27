@@ -1,11 +1,8 @@
 package com.tt.lvruheng.eyepetizer.utils
 
 import android.content.Context
-import android.content.Context.INPUT_METHOD_SERVICE
 import android.view.inputmethod.InputMethodManager
 import android.widget.EditText
-import android.view.inputmethod.InputMethodManager.HIDE_IMPLICIT_ONLY
-import android.view.inputmethod.InputMethodManager.RESULT_SHOWN
 
 
 

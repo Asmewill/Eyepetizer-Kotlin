@@ -5,13 +5,13 @@ import com.tt.lvruheng.eyepetizer.base.BaseView
 import com.tt.lvruheng.eyepetizer.mvp.model.bean.HomeBean
 
 /**
- * Created by lvruheng on 2017/7/5.
+ * Created by Owen on 2019/8/14
  */
-interface HomeContract{
-    interface View : BaseView<Presenter> {
-        fun setData(bean : HomeBean)
+interface HomeContract {
+    interface View:BaseView<Presenter>{
+        fun setData(bean:HomeBean)
     }
-    interface Presenter : BasePresenter {
+    interface Presenter:BasePresenter{
         fun requestData()
     }
 }

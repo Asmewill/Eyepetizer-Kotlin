@@ -94,7 +94,8 @@
             android:button="@null"
             android:drawableTop="@drawable/mine_bg_selected"
             android:gravity="center"
-            android:text="我的"/>
+            android:text="我的"
+            android:visibility="gone"/>
     </RadioGroup>
 
 </RelativeLayout>

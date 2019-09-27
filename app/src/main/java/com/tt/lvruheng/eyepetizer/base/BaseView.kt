@@ -1,7 +1,7 @@
 package com.tt.lvruheng.eyepetizer.base
 
 /**
- * Created by lvruheng on 2017/7/5.
+ * Created by Owen on 2019/8/14
  */
 interface BaseView<in T> {
 }

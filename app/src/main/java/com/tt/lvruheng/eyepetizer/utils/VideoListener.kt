@@ -5,7 +5,7 @@ import com.shuyu.gsyvideoplayer.listener.StandardVideoAllCallBack
 /**
  * Created by lvruheng on 2017/7/8.
  */
-open class VideoListener : StandardVideoAllCallBack{
+ open class VideoListener : StandardVideoAllCallBack{
     override fun onClickResumeFullscreen(url: String?, vararg objects: Any?) {
 
     }
