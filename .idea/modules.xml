@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Eyepetizer-in-Kotlin.iml" filepath="$PROJECT_DIR$/Eyepetizer-in-Kotlin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Eyepetizer-Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Eyepetizer-Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Eyepetizer-Kotlin.app.unitTest.iml" />
     </modules>
   </component>
 </project>
